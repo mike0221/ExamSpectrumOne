@@ -1,4 +1,4 @@
-# Spectrun One Techinical Examination
+# Spectrum One Techinical Examination
 
 Video Sample 
 * IOS : https://drive.google.com/file/d/1jHWdXTJJlZ3Ch1lRNCTb-wEiE3sSNKlw/view?usp=sharing
